@@ -1,0 +1,9 @@
+@import "~font-awesome/css/font-awesome.css";
+@import '~antd/dist/antd.css';
+body {
+  position: relative;
+  /*background-color: #34495e;*/
+  height: 100vh;
+  font-family: Arial, Helvetica, Helvetica Neue, serif;
+  overflow-y: hidden;
+}
